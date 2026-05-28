@@ -64,7 +64,7 @@ Open the browser console (F12). All script messages are prefixed with `[CC->Lich
 
 ## Contributing
 
-Check `COUNTRIBUTING.md`
+Check `CONTRIBUTING.md`
 
 ## License
 
