@@ -62,6 +62,10 @@ Open the browser console (F12). All script messages are prefixed with `[CC->Lich
 | `current orientation: black/white` | Lichess | board orientation |
 | `analysis form not found` | Lichess | not logged in, or Lichess interface changed |
 
+## Contributing
+
+Check `COUNTRIBUTING.md`
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
