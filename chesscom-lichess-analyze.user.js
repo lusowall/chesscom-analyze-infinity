@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Chess.com → Analyze on Lichess
-// @namespace    https://github.com/ThibautGom-Dev
+// @namespace    https://github.com/lusowall
 // @version      2.1
 // @description  Sends your chess.com game to Lichess, triggers the computer analysis and orients the board to your colour. Auto-detects French and English move notation.
 // @author       ThibautGom-Dev
@@ -11,10 +11,10 @@
 // @grant        GM_xmlhttpRequest
 // @connect      lichess.org
 // @run-at       document-idle
-// @homepageURL  https://github.com/ThibautGom-Dev/chesscom-analyze-infinity
-// @supportURL   https://github.com/ThibautGom-Dev/chesscom-analyze-infinity/issues
-// @updateURL    https://raw.githubusercontent.com/ThibautGom-Dev/chesscom-analyze-infinity/main/chesscom-lichess-analyze.user.js
-// @downloadURL  https://raw.githubusercontent.com/ThibautGom-Dev/chesscom-analyze-infinity/main/chesscom-lichess-analyze.user.js
+// @homepageURL  https://github.com/lusowall/chesscom-analyze-infinity
+// @supportURL   https://github.com/lusowall/chesscom-analyze-infinity/issues
+// @updateURL    https://raw.githubusercontent.com/lusowall/chesscom-analyze-infinity/main/chesscom-lichess-analyze.user.js
+// @downloadURL  https://raw.githubusercontent.com/lusowall/chesscom-analyze-infinity/main/chesscom-lichess-analyze.user.js
 // @license      MIT
 // ==/UserScript==
 
