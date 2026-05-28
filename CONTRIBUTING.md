@@ -13,3 +13,5 @@
 3.  Most breakage comes from Chess.com / Lichess changing their DOM — when fixing a selector, keep the old ones as fallbacks rather than replacing them.
 
 When your change is ready, bump `@version` in the userscript header so Tampermonkey picks up the update.
+
+Thanks for your contributing ! 
