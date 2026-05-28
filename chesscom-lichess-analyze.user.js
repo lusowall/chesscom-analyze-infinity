@@ -3,7 +3,7 @@
 // @namespace    https://github.com/lusowall
 // @version      2.1
 // @description  Sends your chess.com game to Lichess, triggers the computer analysis and orients the board to your colour. Auto-detects French and English move notation.
-// @author       ThibautGom-Dev
+// @author       LusoWall
 // @match        https://www.chess.com/game*
 // @match        https://www.chess.com/play*
 // @match        https://www.chess.com/analysis*
